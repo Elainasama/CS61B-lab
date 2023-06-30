@@ -1,6 +1,7 @@
 package IntList;
 
 public class IntList {
+    // first存放元素 rest存放下一位。
     public int first;
     public IntList rest;
 
